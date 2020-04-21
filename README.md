@@ -31,7 +31,11 @@
 
 
 **Skills:**
+- Python
 - Metric based methods
+- Decision Trees
+- Dimension Reduction
+- Logistic Regression
 
 
 
